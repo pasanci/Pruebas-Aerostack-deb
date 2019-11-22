@@ -1,0 +1,6 @@
+Label: aerostack
+Codename: jessie
+Architectures: amd64
+Components: main
+Description: Personal repository
+SignWith: default
